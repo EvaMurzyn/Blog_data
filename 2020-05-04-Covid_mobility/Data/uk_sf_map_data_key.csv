@@ -1,0 +1,233 @@
+adm1_code,diss_me,iso_3166_2,name,google_name
+GBR-2012,2012,GB-ABE,Aberdeen,Aberdeen City
+GBR-2013,2013,GB-ABD,Aberdeenshire,Aberdeenshire
+GBR-2128,2128,GB-AGY,Anglesey,Isle of Anglesey
+GBR-2019,2019,GB-ANS,Angus,Angus council
+GBR-2092,2092,GB-ANT,Antrim,Antrim And Newtownabbey
+GBR-2137,2137,GB-ARD,Ards,Ards And North Down
+GBR-2746,2746,GB-AGB,Argyll and Bute,Argyll and Bute Council
+GBR-2085,2085,GB-ARM,Armagh,"Armagh City, Banbridge And Craigavon"
+GBR-2094,2094,GB-BLA,Ballymena,Mid And East Antrim
+GBR-2101,2101,GB-BLY,Ballymoney,Causeway Coast and Glens
+GBR-2087,2087,GB-BNB,Banbridge,"Armagh City, Banbridge And Craigavon"
+GBR-2060,2060,GB-BDG,Barking and Dagenham,Greater London
+GBR-5705,5705,GB-BNE,Barnet,Greater London
+GBR-5688,5688,GB-BNS,Barnsley,South Yorkshire
+GBR-2043,2043,GB-BAS,Bath and North East Somerset,Bath and North East Somerset
+GBR-5698,5698,GB-BDF,Bedford,Bedford
+GBR-2082,2082,GB-BFS,Belfast,Belfast
+GBR-2061,2061,GB-BEX,Bexley,Greater London
+GBR-5690,5690,GB-BIR,Birmingham,West Midlands
+GBR-2122,2122,GB-BBD,Blackburn with Darwen,Blackburn with Darwen
+GBR-5670,5670,GB-BPL,Blackpool,Blackpool
+GBR-2131,2131,GB-BGW,Blaenau Gwent,Blaenau Gwent
+GBR-5678,5678,GB-BOL,Bolton,Greater Manchester
+GBR-2050,2050,GB-BMH,Bournemouth,Dorset
+GBR-5702,5702,GB-BRC,Bracknell Forest,Bracknell Forest
+GBR-5673,5673,GB-BRD,Bradford,West Yorkshire
+GBR-2062,2062,GB-BEN,Brent,Greater London
+GBR-2112,2112,GB-BGE,Bridgend,Bridgend County Borough
+GBR-2674,2674,GB-BNH,Brighton and Hove,Brighton and Hove
+GBR-2044,2044,GB-BST,Bristol,Gloucestershire
+GBR-2063,2063,GB-BRY,Bromley,Greater London
+GBR-2040,2040,GB-BKM,Buckinghamshire,Buckinghamshire
+GBR-5679,5679,GB-BUR,Bury,Greater Manchester
+GBR-2113,2113,GB-CAY,Caerphilly,Caerphilly County Borough
+GBR-5672,5672,GB-CLD,Calderdale,West Yorkshire
+GBR-2053,2053,GB-CAM,Cambridgeshire,Cambridgeshire
+GBR-2064,2064,GB-CMD,Camden,Greater London
+GBR-2116,2116,GB-CRF,Cardiff,Cardiff
+GBR-2104,2104,GB-CMN,Carmarthenshire,Carmarthenshire
+GBR-2096,2096,GB-CKF,Carrickfergus,Mid And East Antrim
+GBR-2103,2103,GB-CSR,Castlereagh,Lisburn and Castlereagh
+GBR-5697,5697,GB-CBF,Central Bedfordshire,Central Bedfordshire
+GBR-2105,2105,GB-CGN,Ceredigion,Ceredigion
+GBR-5706,5706,GB-CHE,Cheshire East,Cheshire East
+GBR-5707,5707,GB-CHW,Cheshire West and Chester,Cheshire West and Chester
+GBR-4809,4809,GB-LND,City,Greater London
+GBR-2017,2017,GB-CLK,Clackmannanshire,Clackmannanshire
+GBR-2100,2100,GB-CLR,Coleraine,Causeway Coast and Glens
+GBR-2129,2129,GB-CWY,Conwy,Conwy Principal Area
+GBR-2110,2110,GB-CON,Cornwall,Cornwall
+GBR-5696,5696,GB-COV,Coventry,West Midlands
+GBR-2088,2088,GB-CGV,Craigavon,"Armagh City, Banbridge And Craigavon"
+GBR-2065,2065,GB-CRY,Croydon,Greater London
+GBR-2139,2139,GB-CMA,Cumbria,Cumbria
+GBR-2028,2028,GB-DAL,Darlington,Darlington
+GBR-2125,2125,GB-DEN,Denbighshire,Denbighshire
+GBR-2058,2058,GB-DER,Derby,Derby
+GBR-2059,2059,GB-DBY,Derbyshire,Derbyshire
+GBR-2083,2083,GB-DRY,Derry,Derry And Strabane
+GBR-2048,2048,GB-DEV,Devon,Devon
+GBR-5689,5689,GB-DNC,Doncaster,South Yorkshire
+GBR-2051,2051,GB-DOR,Dorset,Dorset
+GBR-2099,2099,GB-DOW,Down,"Newry, Mourne And Down"
+GBR-5692,5692,GB-DUD,Dudley,West Midlands
+GBR-2138,2138,GB-DGY,Dumfries and Galloway,Dumfries and Galloway
+GBR-2020,2020,GB-DND,Dundee,Dundee City Council
+GBR-2089,2089,GB-DGN,Dungannon,Mid Ulster
+GBR-2029,2029,GB-DUR,Durham,County Durham
+GBR-2066,2066,GB-EAL,Ealing,Greater London
+GBR-2001,2001,GB-EAY,East Ayrshire,East Ayrshire Council
+GBR-2002,2002,GB-EDU,East Dunbartonshire,East Dunbartonshire Council
+GBR-2022,2022,GB-ELN,East Lothian,East Lothian Council
+GBR-2003,2003,GB-ERW,East Renfrewshire,East Renfrewshire Council
+GBR-2124,2124,GB-ERY,East Riding of Yorkshire,East Riding of Yorkshire
+GBR-2677,2677,GB-ESX,East Sussex,East Sussex
+GBR-2023,2023,GB-EDH,Edinburgh,Edinburgh
+GBR-2772,2772,GB-ELS,Eilean Siar,NA
+GBR-2067,2067,GB-ENF,Enfield,Greater London
+GBR-2317,2317,GB-ESS,Essex,Essex
+GBR-2015,2015,GB-FAL,Falkirk,Falkirk
+GBR-2136,2136,GB-FER,Fermanagh,Fermanagh And Omagh
+GBR-2021,2021,GB-FIF,Fife,Fife
+GBR-2126,2126,GB-FLN,Flintshire,Flintshire
+GBR-5665,5665,GB-GAT,Gateshead,Tyne and Wear
+GBR-2004,2004,GB-GLG,Glasgow,Glasgow City
+GBR-2039,2039,GB-GLS,Gloucestershire,Gloucestershire
+GBR-2068,2068,GB-GRE,Greenwich,Greater London
+GBR-2130,2130,GB-GWN,Gwynedd,Gwynedd
+GBR-2765,2765,GB-HCK,Hackney,Greater London
+GBR-2108,2108,GB-WRL,Halton,Borough of Halton
+GBR-5708,5708,GB-HAL,Halton,Borough of Halton
+GBR-2069,2069,GB-HMF,Hammersmith and Fulham,Greater London
+GBR-2035,2035,GB-HAM,Hampshire,Hampshire
+GBR-2766,2766,GB-HRY,Haringey,Greater London
+GBR-2767,2767,GB-HRW,Harrow,Greater London
+GBR-2030,2030,GB-HPL,Hartlepool,Hartlepool
+GBR-2675,2675,GB-HAV,Havering,Greater London
+GBR-2775,2775,GB-HEF,Herefordshire,Herefordshire
+GBR-2042,2042,GB-HRT,Hertfordshire,Hertfordshire
+GBR-2745,2745,GB-HLD,Highland,Highland Council
+GBR-2753,2753,GB-HIL,Hillingdon,Greater London
+GBR-2070,2070,GB-HNS,Hounslow,Greater London
+GBR-2005,2005,GB-IVC,Inverclyde,Inverclyde
+GBR-2758,2758,GB-IOW,Isle of Wight,Isle of Wight
+GBR-5988,5988,GB-IOS,Isles of Scilly,NA
+GBR-2071,2071,GB-ISL,Islington,Greater London
+GBR-2072,2072,GB-KEC,Kensington and Chelsea,Greater London
+GBR-3409,3409,GB-KEN,Kent,Kent
+GBR-2055,2055,GB-KHL,Kingston upon Hull,Kingston upon Hull
+GBR-2754,2754,GB-KTT,Kingston upon Thames,Greater London
+GBR-5671,5671,GB-KIR,Kirklees,West Yorkshire
+GBR-5666,5666,GB-KWL,Knowsley,Meyerside
+GBR-2768,2768,GB-LBH,Lambeth,Greater London
+GBR-2123,2123,GB-LAN,Lancashire,Lancashire
+GBR-2095,2095,GB-LRN,Larne,Mid And East Antrim
+GBR-5674,5674,GB-LDS,Leeds,West Yorkshire
+GBR-2761,2761,GB-LCE,Leicester,Leicester
+GBR-2054,2054,GB-LEC,Leicestershire,Leicestershire
+GBR-2769,2769,GB-LEW,Lewisham,Greater London
+GBR-2102,2102,GB-LMV,Limavady,Causeway Coast and Glens
+GBR-2081,2081,GB-LIN,Lincolnshire,Lincolnshire
+GBR-2090,2090,GB-LSB,Lisburn,Lisburn and Castlereagh
+GBR-5668,5668,GB-LIV,Liverpool,Lancashire
+GBR-2752,2752,GB-LUT,Luton,Luton
+GBR-2093,2093,GB-MFT,Magherafelt,Derry And Strabane
+GBR-5684,5684,GB-MAN,Manchester,Greater Manchester
+GBR-2678,2678,GB-MDW,Medway,Medway
+GBR-5669,5669,GB-SHN,Merseyside,Merseyside
+GBR-2114,2114,GB-MTY,Merthyr Tydfil,Merthyr Tydfil County Borough
+GBR-2073,2073,GB-MRT,Merton,Greater London
+GBR-2091,2091,GB-CKT,Mid Ulster,Mid Ulster
+GBR-2031,2031,GB-MDB,Middlesbrough,Middlesbrough
+GBR-2024,2024,GB-MLN,Midlothian,Midlothian
+GBR-2038,2038,GB-MIK,Milton Keynes,Milton Keynes
+GBR-2132,2132,GB-MON,Monmouthshire,Monmouthshire
+GBR-2014,2014,GB-MRY,Moray,Moray
+GBR-2773,2773,GB-MYL,Moyle,Causeway Coast and Glens
+GBR-2118,2118,GB-NTL,Neath Port Talbot,Neath Port Talbot Principle Area
+GBR-5661,5661,GB-NET,Newcastle upon Tyne,Tyne and Wear
+GBR-2770,2770,GB-NWM,Newham,Greater London
+GBR-2133,2133,GB-NWP,Newport,Newport
+GBR-2086,2086,GB-NYM,Newry and Mourne,"Newry, Mourne And Down"
+GBR-2097,2097,GB-NTA,Newtownabbey,Antrim And Newtownabbey
+GBR-2319,2319,GB-NFK,Norfolk,Norfolk
+GBR-2006,2006,GB-NAY,North Ayshire,North Ayrshire Council
+GBR-2098,2098,GB-NDN,North Down,Ards And North Down
+GBR-2056,2056,GB-NEL,North East Lincolnshire,North East Lincolnshire
+GBR-2007,2007,GB-NLK,North Lanarkshire,North Lanarkshire
+GBR-2057,2057,GB-NLN,North Lincolnshire,North Lincolnshire
+GBR-2045,2045,GB-NSM,North Somerset,North Somerset
+GBR-5662,5662,GB-NTY,North Tyneside,Tyne and Wear
+GBR-2140,2140,GB-NYK,North Yorkshire,North Yorkshire
+GBR-2749,2749,GB-NTH,Northamptonshire,Northamptonshire
+GBR-2034,2034,GB-NBL,Northumberland,Northumberland
+GBR-2763,2763,GB-NGM,Nottingham,Nottingham
+GBR-2764,2764,GB-NTT,Nottinghamshire,Nottinghamshire
+GBR-5681,5681,GB-OLD,Oldham,Greater Manchester
+GBR-2084,2084,GB-OMH,Omagh,Fermanagh And Omagh
+GBR-2744,2744,GB-ORK,Orkney,NA
+GBR-2751,2751,GB-OXF,Oxfordshire,Oxfordshire
+GBR-2106,2106,GB-PEM,Pembrokeshire,Pembrokeshire
+GBR-2018,2018,GB-PKN,Perthshire and Kinross,Perth and Kinross
+GBR-2760,2760,GB-PTE,Peterborough,Peterborough
+GBR-2141,2141,GB-PLY,Plymouth,Plymouth
+GBR-2052,2052,GB-POL,Poole,Dorset
+GBR-2759,2759,GB-POR,Portsmouth,Portsmouth
+GBR-2111,2111,GB-POW,Powys,Powys
+GBR-5699,5699,GB-RDG,Reading,Reading
+GBR-2074,2074,GB-RDB,Redbridge,Greater London
+GBR-2032,2032,GB-RCC,Redcar and Cleveland,Redcar and Cleveland
+GBR-2008,2008,GB-RFW,Renfrewshire,Renfrewshire
+GBR-2115,2115,GB-RCT,"Rhondda, Cynon, Taff",Rhondda Cynon Taff
+GBR-2075,2075,GB-RIC,Richmond upon Thames,Greater London
+GBR-5680,5680,GB-RCH,Rochdale,Greater Manchester
+GBR-5686,5686,GB-ROT,Rotherham,South Yorkshire
+GBR-5703,5703,GB-WNM,Royal Borough of Windsor and Maidenhead,Windsor and Maidenhead
+GBR-2762,2762,GB-RUT,Rutland,Rutland
+GBR-5676,5676,GB-SLF,Salford,Greater Manchester
+GBR-5691,5691,GB-SAW,Sandwell,West Midlands
+GBR-2026,2026,GB-SCB,Scottish Borders,Scottish Borders
+GBR-5667,5667,GB-SFT,Sefton,Meyerside
+GBR-5687,5687,GB-SHF,Sheffield,South Yorkshire
+GBR-2747,2747,GB-ZET,Shetland Islands,Aberdeen City
+GBR-2779,2779,GB-SHR,Shropshire,Shropshire
+GBR-5704,5704,GB-SLG,Slough,Slough
+GBR-5695,5695,GB-SOL,Solihull,West Midlands
+GBR-2047,2047,GB-SOM,Somerset,Somerset
+GBR-2009,2009,GB-SAY,South Ayrshire,South Ayrshire Council
+GBR-2046,2046,GB-SGC,South Gloucestershire,South Gloucestershire
+GBR-2010,2010,GB-SLK,South Lanarkshire,South Lanarkshire
+GBR-5663,5663,GB-STY,South Tyneside,Tyne and Wear
+GBR-2036,2036,GB-STH,Southampton,Southampton
+GBR-2679,2679,GB-SOS,Southend-on-Sea,Southend-on-Sea
+GBR-2771,2771,GB-SWK,Southwark,Greater London
+GBR-2777,2777,GB-STS,Staffordshire,Staffordshire
+GBR-2016,2016,GB-STG,Stirling,Stirling
+GBR-5683,5683,GB-SKP,Stockport,Greater Manchester
+GBR-2033,2033,GB-STT,Stockton-on-Tees,Stockton-on-Tees
+GBR-2778,2778,GB-STE,Stoke-on-Trent,Stoke-on-Trent
+GBR-2135,2135,GB-STB,Strabane,Derry And Strabane
+GBR-2318,2318,GB-SFK,Suffolk,Suffolk
+GBR-5664,5664,GB-SND,Sunderland,Tyne and Wear
+GBR-2755,2755,GB-SRY,Surrey,Surrey
+GBR-2076,2076,GB-STN,Sutton,Greater London
+GBR-2119,2119,GB-SWA,Swansea,Swansea
+GBR-2756,2756,GB-SWD,Swindon,Swindon
+GBR-5682,5682,GB-TAM,Tameside,Greater Manchester
+GBR-2121,2121,GB-TFW,Telford and Wrekin,West Midlands
+GBR-2676,2676,GB-THR,Thurrock,Thurrock
+GBR-2142,2142,GB-TOB,Torbay,Torbay
+GBR-2134,2134,GB-TOF,Torfaen,Torfaen Principal Area
+GBR-2077,2077,GB-TWH,Tower Hamlets,Greater London
+GBR-5685,5685,GB-TRF,Trafford,Greater Manchester
+GBR-2117,2117,GB-VGL,Vale of Glamorgan,Vale of Glamorgan
+GBR-5675,5675,GB-WKF,Wakefield,West Yorkshire
+GBR-5694,5694,GB-WLL,Walsall,West Midlands
+GBR-2078,2078,GB-WFT,Waltham Forest,Greater London
+GBR-2079,2079,GB-WND,Wandsworth,Greater London
+GBR-2774,2774,GB-WRT,Warrington,Warrington
+GBR-2750,2750,GB-WAR,Warwickshire,Warwickshire
+GBR-5700,5700,GB-WBK,West Berkshire,West Berkshire
+GBR-2011,2011,GB-WDU,West Dunbartonshire,West Dunbartonshire Council
+GBR-2025,2025,GB-WLN,West Lothian,West Lothian
+GBR-2748,2748,GB-WSX,West Sussex,West Sussex
+GBR-2080,2080,GB-WSM,Westminster,Greater London
+GBR-5677,5677,GB-WGN,Wigan,Greater Manchester
+GBR-2757,2757,GB-WIL,Wiltshire,Wiltshire
+GBR-5701,5701,GB-WOK,Wokingham,Wokingham
+GBR-5693,5693,GB-WLV,Wolverhampton,West Midlands
+GBR-2776,2776,GB-WOR,Worcestershire,Worcestershire
+GBR-2127,2127,GB-WRX,Wrexham,Wrexham Principal Area
+GBR-2120,2120,GB-YOR,York,York
